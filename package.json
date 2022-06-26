@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "babel-preset-power-assert": "^3.0.0",
     "power-assert": "^1.6.1",
     "webpack-espower-loader": "^2.0.0"
   }
